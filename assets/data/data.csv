@@ -1,0 +1,53 @@
+id,state,abbr,Poverty,Diabetes
+1,Alabama,AL,15,12.9
+2,Alaska,AK,7.9,7.4
+4,Arizona,AZ,13.2,10.1
+5,Arkansas,AR,13.8,12.8
+6,California,CA,12.2,10.3
+8,Colorado,CO,8,7.3
+9,Connecticut,CT,7.5,9.2
+10,Delaware,DE,8.5,11.1
+11,District of Columbia,DC,14.2,8.4
+12,Florida,FL,12,11.2
+13,Georgia,GA,14.1,11.6
+15,Hawaii,HI,7.8,9.8
+16,Idaho,ID,10.2,7.6
+17,Illinois,IL,10.5,10.1
+18,Indiana,IN,10.9,10.7
+19,Iowa,IA,7.9,9.5
+20,Kansas,KS,9.2,10.3
+21,Kentucky,KY,14.5,12.5
+22,Louisiana,LA,14.9,11.3
+23,Maine,ME,9.7,9.5
+24,Maryland,MD,7.1,10.1
+25,Massachusetts,MA,8.3,9.7
+26,Michigan,MI,11.4,10.4
+27,Minnesota,MN,7.5,8.1
+28,Mississippi,MS,16.5,13
+29,Missouri,MO,10.7,11.1
+30,Montana,MT,9.5,8.8
+31,Nebraska,NE,8.7,9.2
+32,Nevada,NV,11,9.6
+33,New Hampshire,NH,6,9.2
+34,New Jersey,NJ,8.3,9.7
+35,New Mexico,NM,16.5,11.5
+36,New York,NY,12.2,10
+37,North Carolina,NC,12.8,10.8
+38,North Dakota,ND,7.4,8.6
+39,Ohio,OH,11.6,11.7
+40,Oklahoma,OK,12.2,12
+41,Oregon,OR,11,9
+42,Pennsylvania,PA,9.4,11.2
+44,Rhode Island,RI,10,9.5
+45,South Carolina,SC,13.2,12
+46,South Dakota,SD,9.4,9.1
+47,Tennessee,TN,13.7,13
+48,Texas,TX,13.4,11
+49,Utah,UT,8.5,7.1
+50,Vermont,VT,8.7,7.9
+51,Virginia,VA,8.3,9.7
+53,Washington,WA,8.8,8.9
+54,West Virginia,WV,13.1,14.1
+55,Wisconsin,WI,9,9
+56,Wyoming,WY,7.4,8.4
+72,Puerto Rico,PR,42.3,15.7
